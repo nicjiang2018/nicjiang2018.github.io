@@ -36,7 +36,7 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 
 安装完毕后就可以看见Package Control了
 
-![Alt text](../img/a01.png)
+<img class="shadow" width="320" src="/img/a01.png" />
 
 #2.需要安装什么插件
 
