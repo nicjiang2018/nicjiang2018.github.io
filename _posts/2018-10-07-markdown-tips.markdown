@@ -45,16 +45,16 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 #3.如何安装插件
 
 1.打开Package Control  
-![Alt text](../img/a01.png)
+<img class="shadow" width="320" src="/img/a01.png" />
 
 2.点击Package Control:Install Packages  
-![Alt text](../img/a02.png)
+<img class="shadow" width="320" src="/img/a02.png" />
 
 3.选择**MarkdownEditing**安装  
-![Alt text](../img/a03.png)
+<img class="shadow" width="320" src="/img/a03.png" />
 
 4.同样选择**MarkdownPreview**安装  
-![Alt text](../img/a04.png)
+<img class="shadow" width="320" src="/img/a04.png" />
 
 #4 换行问题
 
