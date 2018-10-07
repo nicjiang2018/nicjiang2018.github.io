@@ -15,7 +15,7 @@ tags:
 
 
 
-#1.Sublime Text 3 没有安装Package Control?
+# 1.Sublime Text 3 没有安装Package Control?
 
 安装插件需要通过Package Control安装。
 如果点开Sublime Text -> Preferences发现没有Package Control，则需要安装Package Control本身。 
@@ -38,11 +38,11 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 
 <img class="shadow" width="320" src="/img/a01.png" />
 
-#2.需要安装什么插件
+# 2.需要安装什么插件
 
 安装**MarkdownEditing**和**MarkdownPreview**
 
-#3.如何安装插件
+# 3.如何安装插件
 
 1.打开Package Control  
 <img class="shadow" width="320" src="/img/a01.png" />
@@ -56,7 +56,7 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 4.同样选择**MarkdownPreview**安装  
 <img class="shadow" width="320" src="/img/a04.png" />
 
-#4 换行问题
+# 4 换行问题
 
 当输入：
 
@@ -77,11 +77,11 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 *星期一*
 
 
-#5.何为锚点？
+# 5.何为锚点？
 
 类似word目录索引，如果写了一篇很长的文章，读者可以根据点击目录中感兴趣的篇章，直接跳转到所在位置。锚点就是将其连接在一起的工具。
 
-#6.锚点例子
+# 6.锚点例子
 标题2
 
     ##2.1 Target
