@@ -70,7 +70,7 @@ post_asset_folder: true
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Network Automation"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-nic.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
