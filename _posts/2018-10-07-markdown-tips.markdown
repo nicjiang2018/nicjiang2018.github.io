@@ -36,7 +36,7 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 
 安装完毕后就可以看见Package Control了
 
-![Alt text](img/a01.png)
+![Alt text](../img/a01.png)
 
 #2.需要安装什么插件
 
@@ -45,16 +45,16 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 #3.如何安装插件
 
 1.打开Package Control  
-![Alt text](img/a01.png)
+![Alt text](../img/a01.png)
 
 2.点击Package Control:Install Packages  
-![Alt text](img/a02.png)
+![Alt text](../img/a02.png)
 
 3.选择**MarkdownEditing**安装  
-![Alt text](img/a03.png)
+![Alt text](../img/a03.png)
 
 4.同样选择**MarkdownPreview**安装  
-![Alt text](img/a04.png)
+![Alt text](../img/a04.png)
 
 #4 换行问题
 
