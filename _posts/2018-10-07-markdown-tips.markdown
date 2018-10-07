@@ -101,5 +101,3 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.
 
 [sublime之markdown语法高亮和修改主题](https://www.jianshu.com/p/2a4267e1bae8)  
 [Github 中 Markdown 锚点链接如何写](https://my.oschina.net/antsky/blog/1475173)
-
-#<meta http-equiv="refresh" content="3">
