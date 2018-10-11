@@ -6,7 +6,8 @@ date:       2018-10-11 12:00:00
 author:     "Nicole"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - Python, Tips
+   - Python
+   - Tips
 ---
 
 ### 问题描述：
