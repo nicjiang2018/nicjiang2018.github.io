@@ -9,7 +9,7 @@ tags:
     - Python, Tips
 ---
 
-### 1 问题描述：
+### 问题描述：
 
 1.当尝试使用pip3安装mysqlclient时提示pip3没有安装： *The program 'pip3' is currently not installed*
 
@@ -19,7 +19,7 @@ The program 'pip3' is currently not installed. You can install it by typing:
 apt install python3-pip
 ```
 
-2.使用命令 **apt install python3-pip**重新安装安装pip3，执行结果显示已经是最新版本： *python3-pip is already the newest version (9.0.1-2)*
+2.使用命令 `apt install python3-pip` 重新安装安装pip3，执行结果显示已经是最新版本： *python3-pip is already the newest version (9.0.1-2)*
 
 ```
 root@ubuntu:~# apt install python3-pip
@@ -44,7 +44,7 @@ Use 'apt autoremove' to remove them.
 0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
 ```
 
-3.**pip3 -V**查看pip3版本，仍然显示pip3没有安装
+3.`pip3 -V` 查看pip3版本，仍然显示pip3没有安装
 
 ```
 root@ubuntu:~# pip3 -V
@@ -52,8 +52,8 @@ The program 'pip3' is currently not installed. You can install it by typing:
 apt install python3-pip
 ```
 
-### 2 解决办法：
-1.使用 **sudo apt-get remove python3-pip**删除pip3
+### 解决办法：
+1.使用 `sudo apt-get remove python3-pip` 删除pip3
 
 ```
 root@ubuntu:~/django/mysite# sudo apt-get remove python3-pip
@@ -85,7 +85,7 @@ Removing python3-pip (9.0.1-2) ...
 Processing triggers for man-db (2.7.6.1-2) ...
 ```
 
-2.使用 **sudo apt-get install python3-pip**重新安装pip3
+2.使用 `sudo apt-get install python3-pip` 重新安装pip3
 
 ```
 root@ubuntu:~/django/mysite# sudo apt-get install python3-pip
@@ -128,5 +128,5 @@ root@ubuntu:~/django/mysite# pip3 --version
 pip 9.0.1 from /usr/lib/python3/dist-packages (python 3.6)
 ```
 
-参考链接：
+参考链接：  
 [python3-pip installed but pip3 command not found?](https://superuser.com/questions/769920/python3-pip-installed-but-pip3-command-not-found) 
