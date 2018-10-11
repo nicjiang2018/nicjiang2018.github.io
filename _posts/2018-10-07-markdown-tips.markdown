@@ -2,7 +2,7 @@
 layout:     post
 title:      "小白学Markdown遇到的问题记录"
 #subtitle:   " \"Hello World, Hello Blog\""
-date:       2018-10-17 12:00:00
+date:       2018-10-07 12:00:00
 author:     "Nicole"
 header-img: "img/post-bg-2015.jpg"
 tags:
