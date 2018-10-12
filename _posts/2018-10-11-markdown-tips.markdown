@@ -9,7 +9,7 @@ tags:
     - Markdown
 ---
 
-###如何使用Sublime Text3的Markdown Preview插件显示图表
+### 如何使用Sublime Text3的Markdown Preview插件显示图表
 
 1.Markdown Preview的作者对UML Support的描述如下：
 [UML Support](https://facelessuser.github.io/MarkdownPreview/extras/#uml-support)
