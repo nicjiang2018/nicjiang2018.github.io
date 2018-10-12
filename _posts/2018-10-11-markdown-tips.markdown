@@ -57,7 +57,7 @@ cond(no)->op
 ```
 ````
 
-<img class="shadow" width="320" src="/img/2018-10-11-markdown-tips-flow.png" />
+<img class="shadow"  width="160" src="/img/2018-10-11-markdown-tips-flow.png" />  
 
 
 ````
@@ -69,5 +69,5 @@ C->>D: Open arrow
 D-->>A: Dashed open arrow
 ```
 ````
-
+  
 <img class="shadow" width="320" src="/img/2018-10-11-markdown-tips-seq.png" />
