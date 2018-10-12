@@ -57,18 +57,7 @@ cond(no)->op
 ```
 ````
 
-
-
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
+<img class="shadow" width="320" src="/img/2018-10-11-markdown-tips-flow.png" />
 
 
 ````
@@ -81,12 +70,4 @@ D-->>A: Dashed open arrow
 ```
 ````
 
-
-
-```sequence
-Title: Here is a title
-A->B: Normal line
-B-->C: Dashed line
-C->>D: Open arrow
-D-->>A: Dashed open arrow
-```
+<img class="shadow" width="320" src="/img/2018-10-11-markdown-tips-seq.png" />
