@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "如何使用Sublime Text3的Markdown Preview插件显示图表"
-subtitle:   " \Subtitle\""
+#subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-10-11 12:00:00
 author:     "Nicole"
 header-img: "img/post-bg-2015.jpg"
