@@ -43,9 +43,9 @@ Step 4: 在右侧`User`文件，**markdown_extentions**找到**markdown.extensio
         },
         
 ```
-<img class="shadow" width="600" src="/Users/nicjiang/Documents/Markdown/img/191204e.png" />
+<img class="shadow" width="600" src="/img/191204e.png" />
 
 Step 5: 现在就可以在代码段里显示行号了
 
-<img class="shadow" width="600" src="/Users/nicjiang/Documents/Markdown/img/191204f.png" />
+<img class="shadow" width="600" src="/img/191204f.png" />
 
