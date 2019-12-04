@@ -7,7 +7,7 @@ description: "Learn"
 keyword: "123123123123123123123123123123123123"
 url: "https://nicjiang2018.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
-favicon: img/icon-wechat.png
+favicon: img/icon-nic.png
 
 
 # SNS settings
