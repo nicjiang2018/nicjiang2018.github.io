@@ -15,23 +15,23 @@ tags:
 
 一些时候我们需要显示代码同时，能够把行号也显示出来，增加代码的易读性。
 
-<img class="shadow" width="600" src="/Users/nicjiang/Documents/Markdown/img/191204g.png" />
+<img class="shadow" width="600" src="/img/191204g.png" />
 
 Step 1: 打开Sublime Text 3里的markdown preview setting文件，点击`Sublime Text`->`Preferences` -> `Package Settings` -> `Markdown Preview`->`Settings`
 
-<img class="shadow" width="600" src="/Users/nicjiang/Documents/Markdown/img/191204a.png" />
+<img class="shadow" width="600" src="/img/191204a.png" />
 
 打开后，就会看见左右两个文件窗口，左侧窗口是自带的默认设置`MarkdownPreview`，右侧窗口是用户自定义设置`User`
 
-<img class="shadow" width="600" src="/Users/nicjiang/Documents/Markdown/img/191204b.png" />
+<img class="shadow" width="600" src="/img/191204b.png" />
 
 Step 2: 在左侧`MarkdownPreview`文件，搜索关键词 *“markdown_extentions”*
 
-<img class="shadow" width="600" src="/Users/nicjiang/Documents/Markdown/img/191204c.png" />
+<img class="shadow" width="600" src="/img/191204c.png" />
 
 Step 3: 然后把markdown_extentions整段复制到右侧`User`文件
 
-<img class="shadow" width="600" src="/Users/nicjiang/Documents/Markdown/img/191204d.png" />
+<img class="shadow" width="600" src="/img/191204d.png" />
 
 Step 4: 在右侧`User`文件，**markdown_extentions**找到**markdown.extensions.codehilite** 添加**"linenums": true**, 保存关闭
 
