@@ -23,11 +23,11 @@ else:
     from importlib2 import abc
 ```
 
-```
-python
+```python
 import sys
 
-# 这是python在第二行
+# 这是空一行
+
 if sys.version_info[0] == 3:
     from importlib import abc
 else:
