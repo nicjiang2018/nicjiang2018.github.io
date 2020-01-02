@@ -41,8 +41,8 @@ gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
-  coderay_default_lang: python
+  #hard_wrap: false
+  #coderay_default_lang: python
   syntax_highlighter: rouge
   # use Github Flavored Markdown !important
 post_asset_folder: true
