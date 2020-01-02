@@ -9,7 +9,7 @@ tags:
     - Markdown
 ---
 
-```python3
+```python
 import sys
 # it's a comment  
 if sys.version_info[0] == 3:
