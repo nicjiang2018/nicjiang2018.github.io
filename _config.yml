@@ -41,6 +41,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
   # use Github Flavored Markdown !important
 post_asset_folder: true
 
