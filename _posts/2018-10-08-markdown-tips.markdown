@@ -9,12 +9,11 @@ tags:
     - Markdown
 ---
 
-
-～～～python
+```python3
 import sys
 # it's a comment  
 if sys.version_info[0] == 3:
     from importlib import abc
 else:
     from importlib2 import abc
-～～～
+```
