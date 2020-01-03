@@ -42,14 +42,8 @@ markdown: kramdown
 kramdown:
   input: GFM # use Github Flavored Markdown !important
   #hard_wrap: false
-  #coderay_default_lang: python
+  coderay_default_lang: python
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
 post_asset_folder: true
 
 
